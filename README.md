@@ -1,36 +1,51 @@
-# Hi there! 👋 I'm Dario  
+# Hi, I'm Dario 👋
 
-**Molecular biologist turned data scientist** with a decade of experience in **genomics, assay development, and machine learning**.  
-I specialise in building **data-driven workflows** to turn complex datasets into actionable insights — bridging the gap between biology and analytics.  
+**Molecular biologist → Data Scientist.** I build clean, reproducible analytics & ML pipelines that turn messy data into decisions.  
+PhD (Imperial College London) • Python/SQL • ML (sklearn) • upskilling in **PyTorch/TensorFlow**.
 
-Currently upskilling in **deep learning (PyTorch & TensorFlow)** to fuel next-generation AI innovations in biotech and data science.
-
----
-
-## 🔬 Featured Projects  
-
-### 🚀 **SpaceY Launch Cost Prediction**  
-- ML models predicting first-stage reusability using public SpaceX launch data.  
-- Created **interactive dashboards** for cost optimization insights.  
-- [View Repository](https://github.com/GitDario79/The-SpaceY-project)
-
-### 🏎 **F1 Golden Era Analysis**  
-- Quantified race unpredictability from **1983–2021** using a custom "Positions Gained" metric.  
-- Era-based statistical trends and visualizations revealed hidden dynamics in F1 history.  
-- [View Repository](https://github.com/GitDario79/F1_Golden_Era)
+- 🧪 Background: 10+ years in genomics/CRISPR, now focused on ML & data products  
+- 🚀 I like shipping: tests, CI, simple deploys (Streamlit / FastAPI)  
+- 📍 Open to Data Scientist roles in **London (primary)**; ready to relocate
 
 ---
 
-## 🛠️ Tech Stack & Skills  
-- **Languages:** Python, SQL, R, Bash  
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, UMAP, PCA  
-- **ML Techniques:** Regression, Random Forest, SVM, clustering, feature engineering  
-- **Currently Learning:** PyTorch, TensorFlow, deep learning  
-- **Other Tools:** Git, Excel (advanced modeling), Jupyter, Docker (basic)
+## 🔬 Featured Projects
+
+### 🏎 F1 Golden Era — “Action Index” Analytics App
+Quantifies how “action-packed” each season was using **Position Volatility Index** & **Lead-Change Rate**.
+- Streamlit app (interactive exploration) • Tested pipeline (pytest + CI)
+- *Coming next:* bootstrap CIs, track/weather covariates
+- 👉 **Repo:** https://github.com/GitDario79/F1_Golden_Era  
+- ▶️ **Live demo:** _link coming soon_
 
 ---
 
-## 🌐 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/dario-meacci-phd-a843a3a1/)  
-- [Portfolio GitHub Projects](https://github.com/GitDario79)  
+### 🚀 SpaceY — Launch Reusability & Cost (E2E + API)
+Product-style project: business framing → model → inference **FastAPI**.
+- Random Forest baseline, explainability (SHAP), `POST /predict` endpoint
+- Makefile + simple runbook; modular `src/`
+- 👉 **Repo:** https://github.com/GitDario79/The-SpaceY-project  
+- ▶️ **Live demo:** _link coming soon_
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL, (R basics), Bash  
+**ML:** scikit-learn (classification, regression, clustering), feature engineering, model validation  
+**Data:** Pandas/NumPy, Plotly/Matplotlib, Scanpy (RNA-seq), UMAP/PCA  
+**Product & Ops:** Streamlit, FastAPI, GitHub Actions, pytest, Docker (basic)  
+**Learning:** PyTorch, TensorFlow, deployment patterns
+
+---
+
+## 🧩 How I work
+- Reproducible structure (`src/`, `notebooks/`, `tests/`, `app/`)  
+- Short READMEs with “how to run” + screenshots  
+- Prefer small, shippable iterations over big rewrites
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/dario-meacci-phd-a843a3a1/  
+- GitHub Projects: https://github.com/GitDario79  
 - Email: **dario.mcc@gmail.com**
