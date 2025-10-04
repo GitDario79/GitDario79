@@ -17,9 +17,11 @@ Quantifies how “action-packed” each season was using **Position Volatility I
 - *Coming next:* bootstrap CIs, track/weather covariates
 - 👉 **Repo:** https://github.com/GitDario79/F1_Golden_Era  
 - ▶️ **Live demo:** _link coming soon_
-![tests](https://img.shields.io/github/actions/workflow/status/GitDario79/The-SpaceY-project/python.yml?label=tests)
+
+![tests](https://img.shields.io/github/actions/workflow/status/GitDario79/F1_Golden_Era/python.yml?label=tests)
 ![license](https://img.shields.io/badge/license-MIT-informational)
-![api](https://img.shields.io/badge/api-FastAPI-success)
+![python](https://img.shields.io/badge/python-3.11+-blue)
+
 
 ---
 
