@@ -1,4 +1,3 @@
-Optimized Profile README (Copy & Paste)
 Hi, I'm Dario 👋
 
 Quantitative Researcher (PhD) ➡️ Data Scientist & Engineer. I bridge the gap between rigorous scientific analysis and production-grade software. I build clean, reproducible ML pipelines that turn complex data into actionable business insights.
