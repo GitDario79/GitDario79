@@ -1,22 +1,57 @@
-# Hi, I'm Dario 👋
+Optimized Profile README (Copy & Paste)
+Hi, I'm Dario 👋
 
-**Molecular biologist → Data Scientist.** I build clean, reproducible analytics & ML pipelines that turn messy data into decisions.  
-PhD (Imperial College London) • Python/SQL • ML (sklearn) • upskilling in **PyTorch/TensorFlow**.
+Quantitative Researcher (PhD) ➡️ Data Scientist & Engineer. I bridge the gap between rigorous scientific analysis and production-grade software. I build clean, reproducible ML pipelines that turn complex data into actionable business insights.
 
-- 🧪 Background: 10+ years in genomics/CRISPR, now focused on ML & data products  
-- 🚀 I like shipping: tests, CI, simple deploys (Streamlit / FastAPI)  
-- 📍 Open to Data Scientist roles in **London (primary)**; ready to relocate
+Core Focus: Python • SQL • End-to-End ML (Sklearn) • Product Engineering (FastAPI/Streamlit). Background: 10+ years managing high-dimensional genomic data, now applying that statistical rigour to business problems.
 
----
+🔬 Featured Projects (Case Studies)
+1. 🚀 SpaceY — Launch Success Prediction API (End-to-End ML) A full-stack implementation of a predictive maintenance model.
 
-## 🔬 Featured Projects
+The Business Problem: Predicting rocket launch success to optimize cost and reusability.
 
-### 🏎 F1 Golden Era — “Action Index” Analytics App
-Quantifies how “action-packed” each season was using **Position Volatility Index** & **Lead-Change Rate**.
-- Streamlit app (interactive exploration) • Tested pipeline (pytest + CI)
-- *Coming next:* bootstrap CIs, track/weather covariates
-- 👉 **Repo:** https://github.com/GitDario79/F1_Golden_Era  
-- ▶️ **Live demo:** _link coming soon_
+The Solution: Built a modular classification pipeline served via a REST API.
+
+Tech Stack: Python, Scikit-learn, FastAPI (for inference), Docker, Makefiles.
+
+Key Engineering: Modular src/ structure, type hinting, and reproducibility scripts.
+
+👉 View Repository
+
+2. 🏎 F1 Golden Era — "Action Index" Analytics Platform An interactive data product quantifying entertainment value in sports.
+
+The Problem: Traditional sports metrics don't capture "excitement."
+
+The Solution: Engineered a custom "Position Volatility Index" and "Lead-Change Rate" metric, visualized in a self-service dashboard.
+
+Tech Stack: Python, Pandas, Streamlit (Frontend), Pytest (CI/CD).
+
+👉 View Repository
+
+🛠️ Tech Stack & Toolkit
+Production Engineering: FastAPI, Streamlit, Docker, GitHub Actions (CI/CD).
+
+Machine Learning: Scikit-Learn (Pipelines, Validation), Feature Engineering, SHAP (Explainability).
+
+Data Manipulation: Advanced Pandas/NumPy, SQL (Complex Queries), Plotly.
+
+Development Practices: TDD (Pytest), Git Flow, Reproducible Environments (venv/conda).
+
+🧩 How I Code
+I treat Data Science as Software Engineering:
+
+✅ Reproducible: Standardized project structures (cookiecutter style).
+
+✅ Tested: Unit tests for data cleaning and model inference.
+
+✅ Documented: Clear READMEs with "Quick Start" instructions.
+
+📫 Contact
+Location: London, UK (Open to Hybrid/Remote)
+
+LinkedIn: Dr. Dario Meacci
+
+Email: dario.mcc@gmail.com
 
 ![tests](https://img.shields.io/github/actions/workflow/status/GitDario79/F1_Golden_Era/python.yml?label=tests)
 ![license](https://img.shields.io/badge/license-MIT-informational)
