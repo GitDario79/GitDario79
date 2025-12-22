@@ -1,11 +1,11 @@
-Hi, I'm Dario 👋
+Hi, I'm Dario
 
-Quantitative Researcher (PhD) ➡️ Data Scientist & Engineer. I bridge the gap between rigorous scientific analysis and production-grade software. I build clean, reproducible ML pipelines that turn complex data into actionable business insights.
+Quantitative Researcher (PhD) Data Scientist & Engineer. I bridge the gap between rigorous scientific analysis and production-grade software. I build clean, reproducible ML pipelines that turn complex data into actionable business insights.
 
 Core Focus: Python • SQL • End-to-End ML (Sklearn) • Product Engineering (FastAPI/Streamlit). Background: 10+ years managing high-dimensional genomic data, now applying that statistical rigour to business problems.
 
 🔬 Featured Projects (Case Studies)
-1. 🚀 SpaceY — Launch Success Prediction API (End-to-End ML) A full-stack implementation of a predictive maintenance model.
+ SpaceY — Launch Success Prediction API (End-to-End ML) A full-stack implementation of a predictive maintenance model.
 
 The Business Problem: Predicting rocket launch success to optimize cost and reusability.
 
@@ -17,7 +17,7 @@ Key Engineering: Modular src/ structure, type hinting, and reproducibility scrip
 
 👉 View Repository
 
-2. 🏎 F1 Golden Era — "Action Index" Analytics Platform An interactive data product quantifying entertainment value in sports.
+2.  F1 Golden Era — "Action Index" Analytics Platform An interactive data product quantifying entertainment value in sports.
 
 The Problem: Traditional sports metrics don't capture "excitement."
 
@@ -27,7 +27,7 @@ Tech Stack: Python, Pandas, Streamlit (Frontend), Pytest (CI/CD).
 
 👉 View Repository
 
-🛠️ Tech Stack & Toolkit
+Tech Stack & Toolkit
 Production Engineering: FastAPI, Streamlit, Docker, GitHub Actions (CI/CD).
 
 Machine Learning: Scikit-Learn (Pipelines, Validation), Feature Engineering, SHAP (Explainability).
@@ -36,7 +36,7 @@ Data Manipulation: Advanced Pandas/NumPy, SQL (Complex Queries), Plotly.
 
 Development Practices: TDD (Pytest), Git Flow, Reproducible Environments (venv/conda).
 
-🧩 How I Code
+How I Code
 I treat Data Science as Software Engineering:
 
 ✅ Reproducible: Standardized project structures (cookiecutter style).
